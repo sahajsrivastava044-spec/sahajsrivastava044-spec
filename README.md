@@ -56,6 +56,12 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake](https://github.com/sahajssrivastava044-spec/sahajssrivastava044-spec/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🧠 Fun Fact
 
 I don’t just learn code… I debug my life like production bugs 😄
