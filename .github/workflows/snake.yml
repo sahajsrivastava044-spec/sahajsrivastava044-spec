@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: sahajssrivastava044-spec
+          github_user_name: sahajsrivastava044-spec
           outputs: |
             dist/github-contribution-grid-snake.svg
 
