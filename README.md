@@ -1,34 +1,33 @@
 # Hi 👋, I'm Sahaj Srivastava
 
-🚀 First-year CS student building real-world web apps
-💻 Working with React, Node.js & MongoDB
-🧠 Learning backend systems, CI/CD & system design
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=First+Year+CS+Student;Full+Stack+Developer+in+Progress;Building+Projects+%F0%9F%9A%80;Learning+Something+New+Everyday" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 First-year Computer Science student
-* 💡 I learn by building real projects
-* 🔧 Currently focused on full-stack development
-* 📈 Improving problem solving & backend skills
+* 🎓 First-year CS student
+* 💻 Building with MERN stack
+* 🧠 Learning backend systems & CI/CD
+* ⚡ I learn by building real-world projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** React, JavaScript, Tailwind
-* **Backend:** Node.js, Express
-* **Database:** MongoDB
-* **Tools:** Git, GitHub, Vercel
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
 
 ---
 
 ## 🔥 Currently Working On
 
-* MERN Stack projects
-* Backend performance & APIs
-* CI/CD pipelines
+* 🚧 MERN Stack Projects
+* ⚙️ Backend Optimization
+* 🚀 CI/CD Pipelines
 
 ---
 
@@ -36,26 +35,30 @@
 
 ### 🔹 Blogify API
 
-Backend blogging platform with authentication and CRUD features.
-👉 https://github.com/sahajsrivastava044/blogify-api
+👉 https://github.com/sahajssrivastava044-spec/blogify-api
 
 ### 🔹 React Play
 
-Collection of mini React projects to master core concepts.
-👉 https://github.com/sahajsrivastava044/react-play
+👉 https://github.com/sahajssrivastava044-spec/react-play
 
 ### 🔹 Weather CLI
 
-Command-line app to fetch real-time weather using APIs.
-👉 https://github.com/sahajsrivastava044/node-weather-cli
+👉 https://github.com/sahajssrivastava044-spec/node-weather-cli
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahajsrivastava044&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahajssrivastava044-spec&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahajssrivastava044-spec&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 🧠 Fun Fact
+
+I don’t just learn code… I debug my life like production bugs 😄
 
 ---
 
