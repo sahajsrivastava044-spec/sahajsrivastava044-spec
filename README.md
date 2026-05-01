@@ -1,35 +1,34 @@
 # Hi 👋, I'm Sahaj Srivastava
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=First+Year+CS+Student;Full+Stack+Developer+in+Progress;Building+Projects+%26+Learning+Daily" />
-</p>
+🚀 First-year CS student building real-world web apps
+💻 Working with React, Node.js & MongoDB
+🧠 Learning backend systems, CI/CD & system design
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 First-year CS student
-* 💻 Building full stack projects using MERN
-* 🧠 Currently learning backend systems & CI/CD
-* ⚡ I learn best by building real-world projects
+* 🎓 First-year Computer Science student
+* 💡 I learn by building real projects
+* 🔧 Currently focused on full-stack development
+* 📈 Improving problem solving & backend skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,github,vscode" />
-</p>
+* **Frontend:** React, JavaScript, Tailwind
+* **Backend:** Node.js, Express
+* **Database:** MongoDB
+* **Tools:** Git, GitHub, Vercel
 
 ---
 
 ## 🔥 Currently Working On
 
-* 🚧 MERN Stack Projects
-* ⚙️ Backend Optimization
-* 🚀 CI/CD Pipelines
+* MERN Stack projects
+* Backend performance & APIs
+* CI/CD pipelines
 
 ---
 
@@ -37,15 +36,18 @@
 
 ### 🔹 Blogify API
 
-A backend blogging platform with authentication, CRUD operations, and MongoDB.
+Backend blogging platform with authentication and CRUD features.
+👉 https://github.com/sahajsrivastava044/blogify-api
 
 ### 🔹 React Play
 
-Collection of React mini-projects to master core concepts.
+Collection of mini React projects to master core concepts.
+👉 https://github.com/sahajsrivastava044/react-play
 
 ### 🔹 Weather CLI
 
 Command-line app to fetch real-time weather using APIs.
+👉 https://github.com/sahajsrivastava044/node-weather-cli
 
 ---
 
@@ -53,7 +55,6 @@ Command-line app to fetch real-time weather using APIs.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahajsrivastava044&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahajsrivastava044&layout=compact&theme=tokyonight" />
 </p>
 
 ---
