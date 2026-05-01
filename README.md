@@ -35,23 +35,23 @@
 
 ### 🔹 Blogify API
 
-👉 https://github.com/sahajssrivastava044-spec/blogify-api
+👉 https://github.com/sahajsrivastava044-spec/blogify-api
 
 ### 🔹 React Play
 
-👉 https://github.com/sahajssrivastava044-spec/react-play
+👉 https://github.com/sahajsrivastava044-spec/react-play
 
 ### 🔹 Weather CLI
 
-👉 https://github.com/sahajssrivastava044-spec/node-weather-cli
+👉 https://github.com/sahajsrivastava044-spec/node-weather-cli
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahajssrivastava044-spec&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahajssrivastava044-spec&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahajsrivastava044-spec&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahajsrivastava044-spec&layout=compact&theme=tokyonight" />
 </p>
 
 ---
