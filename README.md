@@ -58,7 +58,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake](https://github.com/sahajssrivastava044-spec/sahajssrivastava044-spec/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/sahajsrivastava044-spec/sahajsrivastava044-spec/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
