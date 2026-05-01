@@ -52,8 +52,8 @@ Command-line app to fetch real-time weather using APIs.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahajsrivastava044&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahajsrivastava044&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahajsrivastava044-spec&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahajsrivastava044-spec&layout=compact&theme=tokyonight" />
 </p>
 
 ---
