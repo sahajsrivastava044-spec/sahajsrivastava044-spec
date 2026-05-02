@@ -56,6 +56,12 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahajssrivastava044-spec&theme=tokyo-night" />
+
+---
+
 ## 🐍 Contribution Snake
 
 ![snake](https://github.com/sahajsrivastava044-spec/sahajsrivastava044-spec/blob/output/github-contribution-grid-snake.svg)
