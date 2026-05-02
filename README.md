@@ -58,7 +58,7 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahajssrivastava044-spec&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahajsrivastava044-spec&theme=tokyo-night" />
 
 ---
 
