@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-* 🎓 First-year CS student
+* 🎓 Second-year CS student
 * 💻 Building with MERN stack
 * 🧠 Learning backend systems & CI/CD
 * ⚡ I learn by building real-world projects
