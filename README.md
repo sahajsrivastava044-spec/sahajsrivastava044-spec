@@ -37,9 +37,9 @@
 
 👉 https://github.com/sahajsrivastava044-spec/blogify-api
 
-### 🔹 React Play
+### 🔹 Prahari App
 
-👉 https://github.com/sahajsrivastava044-spec/react-play
+👉 https://github.com/sahajsrivastava044-spec/Prahari-App
 
 ### 🔹 Weather CLI
 
