@@ -35,7 +35,7 @@
 
 ### 🔹 Blogify API
 
-👉 https://github.com/sahajsrivastava044-spec/blogify-api
+👉 https://github.com/sahajsrivastava044-spec/blogify
 
 ### 🔹 Prahari App
 
