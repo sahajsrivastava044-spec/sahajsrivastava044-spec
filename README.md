@@ -1,22 +1,24 @@
-# Hi 👋, I'm Sahaj Srivastava
+# Hi there 👋, I'm Sahaj Srivastava
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Backend+Developer;Full+Stack+Developer;Open+Source+Learner;Building+Projects+That+Solve+Real+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Backend+Developer;Full+Stack+Developer;Open+Source+Learner;Always+Building,+Always+Learning" alt="Typing Animation"/>
 </p>
 
 <p align="center">
   <a href="mailto:sahajsrivastava044@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <!-- Replace with your LinkedIn -->
-  <a href="[LINKEDIN](https://www.linkedin.com/in/sahaj-srivastava-b68013381/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/sahaj-srivastava-b68013381/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <!-- Replace with your Portfolio -->
-  <a href="[PORTFOLIO](https://portfolio-inky-two-16.vercel.app/)">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://portfolio-inky-two-16.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/sahajsrivastava044-spec">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -24,85 +26,51 @@
 
 # 👨‍💻 About Me
 
-🎓 Second-Year B.Tech Student in **Software Product Engineering**
+I'm a **Software Product Engineering** student passionate about building scalable backend systems and full-stack web applications.
 
-I'm passionate about building scalable backend systems, creating full-stack applications, and continuously improving my software engineering skills through real-world projects.
+I enjoy understanding **how software works under the hood**, designing clean architectures, and transforming ideas into real-world products.
 
-I believe the best way to learn is by building, breaking, debugging, and improving.
+### What I'm doing
 
-- 💻 Currently exploring Backend Engineering
-- 🚀 Building production-style Full Stack applications
-- 🌱 Learning System Design, Docker, CI/CD & Cloud
-- 🤝 Interested in Open Source & GSoC
-- ⚡ Always curious about how software works under the hood
-
----
-
-# 🚀 Current Focus
-
-- 🔨 Building Full Stack Applications
-- ⚙️ Backend Architecture
-- 🗄️ Database Design
-- 🐳 Docker
-- 🔄 CI/CD Pipelines
-- ☁️ Cloud Deployment
-- 📚 Data Structures & Algorithms
+- 🚀 Building production-inspired applications
+- ⚙️ Learning scalable backend architecture
+- 🐳 Exploring Docker & CI/CD
+- 🌱 Preparing for Open Source contributions
+- 📚 Improving Data Structures & Algorithms
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-## 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,java,python,html,css" />
 </p>
 
----
-
-## 🎨 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 </p>
 
----
-
-## ⚙️ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" />
 </p>
 
----
-
-## 🗄️ Databases
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma" />
 </p>
 
----
-
-## ☁️ DevOps & Tools
+### DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,githubactions" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,vscode" />
 </p>
-
----
-
-# 🌱 Currently Learning
-
-- Backend System Design
-- PostgreSQL
-- Prisma ORM
-- Docker
-- GitHub Actions
-- CI/CD
-- Authentication & Authorization
-- Clean Architecture
-- Design Patterns
 
 ---
 
@@ -110,22 +78,22 @@ I believe the best way to learn is by building, breaking, debugging, and improvi
 
 ## 🚢 BOAT Warranty Hub
 
-Production-inspired Warranty Management System
+Production-style warranty management platform.
 
-### Features
+**Highlights**
 
-- 🔐 Authentication
-- 📦 Product Management
-- 🛠️ Repair Tracking
-- 📄 Warranty PDF Upload
-- 🔍 Warranty Verification
-- 📊 Dashboard APIs
+- Warranty Verification
+- Repair Management
+- Authentication
+- Secure PDF Upload
+- PostgreSQL Database
+- Prisma ORM
 
-**Tech Stack**
+**Stack**
 
-Next.js • PostgreSQL • Prisma • NextAuth • Zod • Docker
+`Next.js` • `PostgreSQL` • `Prisma` • `NextAuth` • `Docker`
 
-> *(Repository Coming Soon)*
+> Repository coming soon.
 
 ---
 
@@ -133,18 +101,17 @@ Next.js • PostgreSQL • Prisma • NextAuth • Zod • Docker
 
 Community-driven Human-Wildlife Conflict Reporting Platform.
 
-### Features
+**Highlights**
 
-- 📍 Live Incident Reporting
-- 🗺️ Risk Mapping
-- 🚨 Alert Generation
-- 👮 Officer Dashboard
-- 👥 Community Dashboard
-- 🔐 JWT Authentication
+- Community Reporting
+- Officer Dashboard
+- Risk Mapping
+- JWT Authentication
+- Alert Generation
 
-**Tech Stack**
+**Stack**
 
-React • Express • MongoDB • JWT • Leaflet
+`React` • `Express` • `MongoDB` • `Leaflet`
 
 🔗 https://github.com/sahajsrivastava044-spec/Prahari-App
 
@@ -152,44 +119,42 @@ React • Express • MongoDB • JWT • Leaflet
 
 ## 📝 Blogify API
 
-RESTful Backend API for a Blogging Platform.
+REST API for a blogging platform.
 
-### Features
+**Highlights**
 
-- User Authentication
-- JWT Authorization
-- CRUD Operations
+- JWT Authentication
+- CRUD APIs
 - MongoDB Integration
-- REST APIs
+- REST Architecture
 
-**Tech Stack**
+**Stack**
 
-Node.js • Express • MongoDB
+`Node.js` • `Express` • `MongoDB`
 
 🔗 https://github.com/sahajsrivastava044-spec/blogify
 
 ---
 
-## 🌦️ Weather CLI
+## 🌦 Weather CLI
 
-A Command Line Weather Application built with Node.js.
+Command-line weather application.
 
-### Features
+**Highlights**
 
-- Current Weather
-- City Search
-- Clean CLI Interface
-- Fast API Responses
+- Weather Search
+- Clean CLI
+- API Integration
 
-**Tech Stack**
+**Stack**
 
-Node.js
+`Node.js`
 
 🔗 https://github.com/sahajsrivastava044-spec/node-weather-cli
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -204,9 +169,7 @@ Node.js
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahajsrivastava044-spec&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -214,9 +177,15 @@ Node.js
 # 📊 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahajsrivastava044-spec&theme=tokyo-night"/>
+</p>
 
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sahajsrivastava044-spec&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -224,53 +193,39 @@ Node.js
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://github.com/sahajsrivastava044-spec/sahajsrivastava044-spec/blob/output/github-contribution-grid-snake.svg"/>
-
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📚 Currently Learning
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sahajsrivastava044-spec&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 🎯 2026 Roadmap
-
-- ✅ Master MERN Stack
-- ✅ Build Production Projects
-- 🔄 Learn PostgreSQL
-- 🔄 Learn Prisma
-- 🔄 Learn Docker
-- 🔄 CI/CD Pipelines
-- 🔄 Cloud Deployment
-- 🔄 Open Source Contributions
-- 🔄 Internship Preparation
+- Backend System Design
+- Docker
+- GitHub Actions
+- PostgreSQL
+- Prisma ORM
+- Authentication & Authorization
+- Clean Architecture
+- Design Patterns
+- Cloud Deployment
 
 ---
 
-# 📚 Coding Profiles
+# 🎯 2026 Goals
 
-<!-- Replace with your profile links -->
-
-- 💻 LeetCode
-- ⚔️ Codeforces
-- 🍽️ CodeChef
-- 📖 GeeksforGeeks
+- Build production-ready backend systems
+- Contribute to Open Source
+- Strengthen System Design fundamentals
+- Improve DSA & Problem Solving
+- Learn Cloud Deployment
+- Build projects that solve real-world problems
 
 ---
 
-# 📌 Engineering Philosophy
+# 💭 Engineering Philosophy
 
-> **"Build. Break. Learn. Improve. Repeat."**
-
-I enjoy understanding *why* something works instead of simply learning *how* to use it.
+> *"Great software isn't built by memorizing frameworks—it's built by understanding systems."*
 
 ---
 
@@ -282,16 +237,16 @@ I enjoy understanding *why* something works instead of simply learning *how* to 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/sahajsrivastava044-spec">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://portfolio-inky-two-16.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="[LINKEDIN](https://www.linkedin.com/in/sahaj-srivastava-b68013381/)">
+<a href="https://www.linkedin.com/in/sahaj-srivastava-b68013381/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[PORTFOLIO](https://portfolio-inky-two-16.vercel.app/)">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/sahajsrivastava044-spec">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -300,8 +255,8 @@ I enjoy understanding *why* something works instead of simply learning *how* to 
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for stopping by!
 
-*"Code is more than making things work—it's about building solutions that last."*
+*"I believe the best way to learn software engineering is to build real systems, solve meaningful problems, and continuously improve through practice."*
 
 </p>
