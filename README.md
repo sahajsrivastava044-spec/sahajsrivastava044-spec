@@ -166,26 +166,10 @@ Command-line weather application.
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahajsrivastava044-spec&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahajsrivastava044-spec&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sahajsrivastava044-spec&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
