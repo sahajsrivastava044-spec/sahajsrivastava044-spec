@@ -154,18 +154,6 @@ Command-line weather application.
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahajsrivastava044-spec&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahajsrivastava044-spec&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
