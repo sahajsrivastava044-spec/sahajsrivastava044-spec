@@ -93,7 +93,7 @@ Production-style warranty management platform.
 
 `Next.js` • `PostgreSQL` • `Prisma` • `NextAuth` • `Docker`
 
-> Repository coming soon.
+🔗 https://github.com/sahajsrivastava044-spec/SW2627-Nextjs-cloud-Boat-Warranty-Portal
 
 ---
 
